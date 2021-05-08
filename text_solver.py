@@ -75,7 +75,8 @@ def solve(board):
     return False
 
 
-print_board(board)
-print("_________________________")
-solve(board)
-print_board(board)
+# # Text solution demo
+# print_board(board)
+# print("_________________________")
+# solve(board)
+# print_board(board)
